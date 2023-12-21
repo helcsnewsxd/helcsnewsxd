@@ -14,10 +14,10 @@ If you want to count with my skills in your project, do not hesitate to contact 
   <a href="mailto:emanuelherrador2@gmail.com">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" style="padding:5" />
   </a>
-  <a href="https://www.instagram.com/helcsnewsxd" style="margin-left:10">
+  <a href="https://www.instagram.com/helcsnewsxd">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" style="padding:5" />
   </a>
-  <a href="www.linkedin.com/in/emanuel-nicolas-herrador">
+  <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" style="padding:5" />
   </a>
   <a href="https://t.me/helcsnewsxd">
