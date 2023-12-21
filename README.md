@@ -8,7 +8,7 @@ Today I can say that I study 👨‍🎓 and work 👨‍💼 what I love and pu
 
 #### Social Networks
 
-If you want to count with my skills in your project, do not hesitate to contact me 📲
+If you want to count with my skills in your project, do not hesitate to contact me! 📲
 
 <div align="center">
   <a href="mailto:emanuelherrador2@gmail.com">
