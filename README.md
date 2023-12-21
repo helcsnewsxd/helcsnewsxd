@@ -12,34 +12,34 @@ If you want to count with my skills in your project, do not hesitate to contact 
 
 <div align="center">
   <a href="mailto:emanuelherrador2@gmail.com">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" alt="gmail" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" alt="gmail" title="Gmail"/>
   </a>
   <a href="https://www.instagram.com/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" alt="instagram" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" alt="instagram" title="Instragram" />
   </a>
   <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" alt="linkedin" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" alt="linkedin" title="Linkedin" />
   </a>
   <a href="https://t.me/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/telegram.svg" height="40" alt="telegram" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/telegram.svg" height="40" alt="telegram" title="Telegram" />
   </a>
   <a href="https://twitter.com/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/twitter.svg" height="40" alt="twitter" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/twitter.svg" height="40" alt="twitter" title="Twitter" />
   </a>
 </div>
 
 #### Languages and technologies that i know
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg" height="40" alt="c++" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c.svg" height="40" alt="c" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/python.svg" height="40" alt="python" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/assembly.svg" height="40" alt="assembly" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/system-verilog.svg" height="40" alt="system verilog" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/react.svg" height="40" alt="react" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/java.svg" height="40" alt="java" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/haskell.svg" height="40" alt="haskell" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg" height="40" alt="c++" title="C++" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c.svg" height="40" alt="c" title="C" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/python.svg" height="40" alt="python" title="Python" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/assembly.svg" height="40" alt="assembly" title="Assembly" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/system-verilog.svg" height="40" alt="system verilog" title="System Verilog" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/react.svg" height="40" alt="react" title="React" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/java.svg" height="40" alt="java" title="Java" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/haskell.svg" height="40" alt="haskell" title="Haskell" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" title="Omnet++" >
 </div>
 
 #### My Github Stats
