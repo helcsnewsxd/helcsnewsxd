@@ -12,34 +12,34 @@ If you want to count with my skills in your project, do not hesitate to contact 
 
 <div align="center">
   <a href="mailto:emanuelherrador2@gmail.com">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/social-network/gmail.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" />
   </a>
   <a href="https://www.instagram.com/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/social-network/instagram.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/social-network/linkedin.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" />
   </a>
   <a href="https://t.me/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/social-network/telegram.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/telegram.svg" height="40" />
   </a>
   <a href="https://twitter.com/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/social-network/twitter.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/twitter.svg" height="40"/>
   </a>
 </div>
 
 #### Languages and technologies that i know
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/c++.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/c.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/python.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/assembly.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/system-verilog.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/react.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/java.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/haskell.svg">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/programming/omnet++.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/python.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/assembly.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/system-verilog.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/react.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/java.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/haskell.svg">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg">
 </div>
 
 #### My Github Stats
