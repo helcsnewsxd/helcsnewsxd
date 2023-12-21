@@ -12,19 +12,19 @@ If you want to count with my skills in your project, do not hesitate to contact 
 
 <div align="center">
   <a href="mailto:emanuelherrador2@gmail.com">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" style="padding:5" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" />
   </a>
   <a href="https://www.instagram.com/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" style="padding:5" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" style="padding:5" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" />
   </a>
   <a href="https://t.me/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/telegram.svg" height="40" style="padding:5" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/telegram.svg" height="40" />
   </a>
   <a href="https://twitter.com/helcsnewsxd">
-    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/twitter.svg" height="40"style="padding:5" />
+    <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/twitter.svg" height="40"/>
   </a>
 </div>
 
@@ -36,14 +36,14 @@ If you want to count with my skills in your project, do not hesitate to contact 
 #### My Github Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helcsnewsxd&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Github%20Stats&theme=ambient_gradient" height="300" width="auto"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcsnewsxd&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&theme=ambient_gradient" height="300" width="auto"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helcsnewsxd&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Github%20Stats&theme=transparent" height="300" width="auto"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcsnewsxd&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&theme=transparent" height="300" width="auto"/>
 </div>
 
 #### Pinned Github Repos
 
 <div align="center">
   <a href="https://github.com/helcsnewsxd/FAMAF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=FAMAF&show_owner=true&theme=ambient_gradient" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=FAMAF&show_owner=true&theme=transparent" />
   </a>
 </div>
