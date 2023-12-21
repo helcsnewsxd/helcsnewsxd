@@ -11,19 +11,19 @@ Today I can say that I study 👨‍🎓 and work 👨‍💼 what I love and pu
 If you want to count with my skills in your project, do not hesitate to contact me 📲
 
 <div align="center">
-  <a href="mailto:emanuelherrador2@gmail.com">
+  <a href="mailto:emanuelherrador2@gmail.com" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" />
   </a>
-  <a href="https://www.instagram.com/helcsnewsxd">
+  <a href="https://www.instagram.com/helcsnewsxd" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador">
+  <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" />
   </a>
-  <a href="https://t.me/helcsnewsxd">
+  <a href="https://t.me/helcsnewsxd" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/telegram.svg" height="40" />
   </a>
-  <a href="https://twitter.com/helcsnewsxd">
+  <a href="https://twitter.com/helcsnewsxd" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/twitter.svg" height="40"/>
   </a>
 </div>
