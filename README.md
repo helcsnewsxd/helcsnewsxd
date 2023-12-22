@@ -42,6 +42,30 @@ If you want to count with my skills in your project, do not hesitate to contact 
   <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" title="Omnet++" >
 </div>
 
+#### My Competitive Programming Stats
+
+<div align="center" style="display:flex">
+  <div style="display:grid;width:30%;padding:5px">
+    <a href="https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2020/">
+      <img align="center" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/bronze_medal.svg" height="100" width="auto" alt="bronze medal">
+    </a>
+    <p><em>Third position in Argentinian National Informatics Olympiad 2020</em></p>
+  </div>
+  <div style="display:grid;width:30%;padding:5px">
+    <a href="https://www.iberoinformatica.org/contestant_details/7174">
+      <img align="center" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/bronze_medal.svg" height="100" width="auto" alt="bronze medal">
+    </a>
+    <p><em>Third position in Ibero-American Olympiad in Informatics 2021</em></p>
+  </div>
+  <div style="display:grid;width:30%;padding:5px">
+    <img align="center" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/icpc.svg" height="100" width="auto" alt="icpc logo">
+    <p><em>Finalist in the International Collegiate Programming Contest 46th World Final (not done yet)</em></p>
+  </div>
+</div>
+<div align="center">
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=helcsnewsxd&theme=transparent&force_username=true" alt="codeforces statistic" >
+</div>
+
 #### My Github Stats
 
 <div align="center">
