@@ -55,7 +55,7 @@ If you want to count with my skills in your project, do not hesitate to contact 
 </div>
 <p></p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helcsnewsxd&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Github%20Stats&theme=transparent&hide_border=true" height="300" width="auto" alt="github statistic" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helcsnewsxd&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Github%20Stats&theme=transparent&hide_border=true&text_bold=false" height="300" width="auto" alt="github statistic" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcsnewsxd&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&theme=transparent&hide_border=true" height="300" width="auto" alt="github statistic" />
 </div>
 
