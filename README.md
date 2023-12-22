@@ -1,4 +1,4 @@
-### Hi!
+<h1>Hi! :wave:</h1>
 
 I'm Emanuel Nicolás Herrador, also known in internet like _helcsnewsxd_.
 
@@ -6,7 +6,7 @@ I am passionate 💙 about mathematics and thanks to my family and school I had 
 
 Today I can say that I study 👨‍🎓 and work 👨‍💼 what I love and pursue an exciting career where everything is integrated: **Computer Science**. 💻
 
-#### Social Networks
+<h3>Social Networks</h3>
 
 If you want to count with my skills in your project, do not hesitate to contact me! 📲
 
@@ -28,7 +28,7 @@ If you want to count with my skills in your project, do not hesitate to contact 
   </a>
 </div>
 
-#### Languages and technologies that i know
+<h3>Languages and technologies that i know</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg" height="40" alt="c++" title="C++" >
@@ -42,31 +42,13 @@ If you want to count with my skills in your project, do not hesitate to contact 
   <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" title="Omnet++" >
 </div>
 
-#### My Competitive Programming Stats
+<h3>My Competitive Programming Stats</h3>
 
-<div align="center" style="display:flex">
-  <div style="display:grid;width:30%;padding:5px">
-    <a href="https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2020/">
-      <img align="center" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/bronze_medal.svg" height="100" width="auto" alt="bronze medal">
-    </a>
-    <p><em>Third position in Argentinian National Informatics Olympiad 2020</em></p>
-  </div>
-  <div style="display:grid;width:30%;padding:5px">
-    <a href="https://www.iberoinformatica.org/contestant_details/7174">
-      <img align="center" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/bronze_medal.svg" height="100" width="auto" alt="bronze medal">
-    </a>
-    <p><em>Third position in Ibero-American Olympiad in Informatics 2021</em></p>
-  </div>
-  <div style="display:grid;width:30%;padding:5px">
-    <img align="center" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/icpc.svg" height="100" width="auto" alt="icpc logo">
-    <p><em>Finalist in the International Collegiate Programming Contest 46th World Final (not done yet)</em></p>
-  </div>
-</div>
 <div align="center">
   <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=helcsnewsxd&theme=transparent&force_username=true" alt="codeforces statistic" >
 </div>
 
-#### My Github Stats
+<h3>My Github Stats</h3>
 
 <div align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=helcsnewsxd&theme=transparent&fire=EB5454" alt="github statistic" >
@@ -77,7 +59,7 @@ If you want to count with my skills in your project, do not hesitate to contact 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcsnewsxd&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&theme=transparent" height="300" width="auto" alt="github statistic" />
 </div>
 
-#### Pinned Github Repos
+<h3>Pinned Github Repos</h3>
 
 <div align="center">
   <a href="https://github.com/helcsnewsxd/FAMAF">
