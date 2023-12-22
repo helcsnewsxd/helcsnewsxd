@@ -45,7 +45,7 @@ If you want to count with my skills in your project, do not hesitate to contact 
 <h3>My Competitive Programming Stats</h3>
 
 <div align="center">
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=helcsnewsxd&theme=transparent&force_username=true&border_color=00000000" alt="codeforces statistic" >
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=helcsnewsxd&theme=transparent&force_username=true&border_color=00000000" alt="codeforces statistic" height="225" width="auto" >
 </div>
 
 <h3>My Github Stats</h3>
