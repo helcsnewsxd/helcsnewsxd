@@ -39,10 +39,6 @@
           margin: 0 0.5rem;
 
           text-decoration: none;
-
-          &:hover {
-            transform: scale(1.2);
-          }
         }
 
         .cards {
@@ -55,9 +51,9 @@
         }
 
         .card {
-          &:hover {
-            transform: scale(1.2);
-          }
+          margin: 0 0.5rem;
+
+          text-decoration: none;
         }
 
         @media (prefers-color-scheme: dark) {
