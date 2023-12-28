@@ -10,20 +10,20 @@ Today I can say that I study 👨‍🎓 and work 👨‍💼 what I love and pu
 
 If you want to count with my skills in your project, do not hesitate to contact me! 📲
 
-<div align="center" style="display:flex;flex-direction:row;justify-content:center;align-items:center;text-decoration:none;margin:1rem 0;">
-  <a href="mailto:emanuelherrador2@gmail.com" style="margin: 0 0.5rem;text-decoration: none;">
+<div align="center">
+  <a href="mailto:emanuelherrador2@gmail.com">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/gmail.svg" height="40" alt="gmail" title="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/helcsnewsxd" style="margin: 0 0.5rem;text-decoration: none;">
+  <a href="https://www.instagram.com/helcsnewsxd">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/instagram.svg" height="40" alt="instagram" title="Instragram" />
   </a>
-  <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador" style="margin: 0 0.5rem;text-decoration: none;">
+  <a href="https://www.linkedin.com/in/emanuel-nicolas-herrador">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/linkedin.svg" height="40" alt="linkedin" title="Linkedin" />
   </a>
-  <a href="https://t.me/helcsnewsxd" style="margin: 0 0.5rem;text-decoration: none;">
+  <a href="https://t.me/helcsnewsxd">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/telegram.svg" height="40" alt="telegram" title="Telegram" />
   </a>
-  <a href="https://twitter.com/helcsnewsxd" style="margin: 0 0.5rem;text-decoration: none;">
+  <a href="https://twitter.com/helcsnewsxd">
     <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/twitter.svg" height="40" alt="twitter" title="Twitter" />
   </a>
 </div>
@@ -31,27 +31,27 @@ If you want to count with my skills in your project, do not hesitate to contact 
 <h3>Languages and technologies that i know</h3>
 
 <div align="center">
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg" height="40" alt="c++" title="C++" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c.svg" height="40" alt="c" title="C" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/python.svg" height="40" alt="python" title="Python" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/assembly.svg" height="40" alt="assembly" title="Assembly" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/system-verilog.svg" height="40" alt="system verilog" title="System Verilog" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/react.svg" height="40" alt="react" title="React" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/java.svg" height="40" alt="java" title="Java" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/haskell.svg" height="40" alt="haskell" title="Haskell" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" title="Omnet++" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg" height="40" alt="c++" title="C++" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c.svg" height="40" alt="c" title="C" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/python.svg" height="40" alt="python" title="Python" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/assembly.svg" height="40" alt="assembly" title="Assembly" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/system-verilog.svg" height="40" alt="system verilog" title="System Verilog" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/react.svg" height="40" alt="react" title="React" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/java.svg" height="40" alt="java" title="Java" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/haskell.svg" height="40" alt="haskell" title="Haskell" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" title="Omnet++" >
 </div>
 
 <div align="center">
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/html.svg" height="40" alt="html" title="HTML" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/css.svg" height="40" alt="css" title="CSS" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/javascript.svg" height="40" alt="javascript" title="JavaScript" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/nextjs.svg" height="40" alt="nextjs" title="NextJS" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/fastapi.svg" height="40" alt="fastapi" title="FastAPI" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/docker.svg" height="40" alt="docker" title="Docker" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mongodb.svg" height="40" alt="mongodb" title="MongoDB" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mysql.svg" height="40" alt="mysql" title="MySQL" >
-  <img style="margin: 0 0.5rem;text-decoration: none;" src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/ghidra.svg" height="40" alt="ghidra" title="GHidra" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/html.svg" height="40" alt="html" title="HTML" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/css.svg" height="40" alt="css" title="CSS" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/javascript.svg" height="40" alt="javascript" title="JavaScript" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/nextjs.svg" height="40" alt="nextjs" title="NextJS" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/fastapi.svg" height="40" alt="fastapi" title="FastAPI" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/docker.svg" height="40" alt="docker" title="Docker" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mongodb.svg" height="40" alt="mongodb" title="MongoDB" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mysql.svg" height="40" alt="mysql" title="MySQL" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/ghidra.svg" height="40" alt="ghidra" title="GHidra" >
 </div>
 
 <h3>My Competitive Programming Stats</h3>
