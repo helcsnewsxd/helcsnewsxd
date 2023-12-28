@@ -42,6 +42,18 @@ If you want to count with my skills in your project, do not hesitate to contact 
   <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" title="Omnet++" >
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/css.svg" height="40" alt="css" title="CSS" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/docker.svg" height="40" alt="docker" title="Docker" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/fastapi.svg" height="40" alt="fastapi" title="FastAPI" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/ghidra.svg" height="40" alt="ghidra" title="GHidra" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/html.svg" height="40" alt="html" title="HTML" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/javascript.svg" height="40" alt="javascript" title="JavaScript" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mongodb.svg" height="40" alt="mongodb" title="MongoDB" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mysql.svg" height="40" alt="mysql" title="MySQL" >
+  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/nextjs.svg" height="40" alt="nextjs" title="NextJS" >
+</div>
+
 <h3>My Competitive Programming Stats</h3>
 
 <div align="center">
