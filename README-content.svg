@@ -1,8 +1,18 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .content {
+        * {
+          margin: 0;
+          padding: 0;
+          color: inherit;
+          text-decoration: none;
+          list-style: none;
+          outline: none;
+          box-sizing: border-box;
+        }
+
+        .body {
           color: black;
           font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
             Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
@@ -57,13 +67,13 @@
         }
 
         @media (prefers-color-scheme: dark) {
-          .content {
+          .body {
             color: white;
           }
         }
       </style>
 
-      <div class="content">
+      <div class="body">
         <!-- Presentation -->
         <section>
           <section class="title">
@@ -283,75 +293,6 @@
               alt="ghidra"
               title="GHidra"
             />
-          </section>
-        </section>
-
-        <!-- Competitive programming stats -->
-        <section>
-          <section class="title2">
-            <p>Competitive programming stats</p>
-          </section>
-
-          <section class="cards">
-            <img
-              align="center"
-              class="card"
-              src="https://codeforces-readme-stats.vercel.app/api/card?username=helcsnewsxd&theme=transparent&force_username=true&border_color=00000000"
-              alt="codeforces statistic"
-              height="225"
-              width="auto"
-            />
-          </section>
-        </section>
-
-        <!-- My Github Stats -->
-        <section>
-          <section class="title2">
-            <p>My Github Stats</p>
-          </section>
-
-          <section class="cards">
-            <img
-              class="card"
-              align="center"
-              src="https://streak-stats.demolab.com/?user=helcsnewsxd&theme=transparent&fire=EB5454&hide_border=true&stroke=00000000"
-              alt="github statistic"
-            />
-          </section>
-          <section class="cards">
-            <img
-              class="card"
-              align="center"
-              src="https://github-readme-stats.vercel.app/api?username=helcsnewsxd&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Github%20Stats&theme=transparent&hide_border=true&text_bold=false"
-              height="300"
-              width="auto"
-              alt="github statistic"
-            />
-            <img
-              class="card"
-              align="center"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcsnewsxd&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&theme=transparent&hide_border=true"
-              height="300"
-              width="auto"
-              alt="github statistic"
-            />
-          </section>
-        </section>
-
-        <section>
-          <section class="title2">
-            <p>Pinned Github Repos</p>
-          </section>
-
-          <section class="cards">
-            <a href="https://github.com/helcsnewsxd/FAMAF">
-              <img
-                class="card"
-                align="center"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=FAMAF&show_owner=true&theme=transparent&hide_border=true"
-                alt="my FAMAF repo"
-              />
-            </a>
           </section>
         </section>
       </div>
