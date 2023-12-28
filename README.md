@@ -30,29 +30,7 @@ If you want to count with my skills in your project, do not hesitate to contact 
 
 <h3>Languages and technologies that i know</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg" height="40" alt="c++" title="C++" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c.svg" height="40" alt="c" title="C" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/python.svg" height="40" alt="python" title="Python" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/assembly.svg" height="40" alt="assembly" title="Assembly" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/system-verilog.svg" height="40" alt="system verilog" title="System Verilog" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/react.svg" height="40" alt="react" title="React" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/java.svg" height="40" alt="java" title="Java" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/haskell.svg" height="40" alt="haskell" title="Haskell" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg" height="40" alt="omnet++" title="Omnet++" >
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/html.svg" height="40" alt="html" title="HTML" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/css.svg" height="40" alt="css" title="CSS" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/javascript.svg" height="40" alt="javascript" title="JavaScript" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/nextjs.svg" height="40" alt="nextjs" title="NextJS" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/fastapi.svg" height="40" alt="fastapi" title="FastAPI" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/docker.svg" height="40" alt="docker" title="Docker" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mongodb.svg" height="40" alt="mongodb" title="MongoDB" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mysql.svg" height="40" alt="mysql" title="MySQL" >
-  <img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/ghidra.svg" height="40" alt="ghidra" title="GHidra" >
-</div>
+<img src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/technologies.svg">
 
 <h3>My Competitive Programming Stats</h3>
 

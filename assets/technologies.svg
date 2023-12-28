@@ -1,0 +1,171 @@
+<svg
+  fill="none"
+  viewBox="0 0 600 400"
+  width="600"
+  height="400"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          color: inherit;
+          text-decoration: none;
+          list-style: none;
+          outline: none;
+          box-sizing: border-box;
+        }
+
+        .body {
+        }
+
+        .icon-section {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: center;
+          margin: 1rem;
+        }
+
+        .icon {
+          margin: 0.5rem;
+        }
+      </style>
+      <div>
+        <div class="icon-section" align="center">
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c++.svg"
+            height="40"
+            alt="c++"
+            title="C++"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/c.svg"
+            height="40"
+            alt="c"
+            title="C"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/python.svg"
+            height="40"
+            alt="python"
+            title="Python"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/assembly.svg"
+            height="40"
+            alt="assembly"
+            title="Assembly"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/system-verilog.svg"
+            height="40"
+            alt="system verilog"
+            title="System Verilog"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/react.svg"
+            height="40"
+            alt="react"
+            title="React"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/java.svg"
+            height="40"
+            alt="java"
+            title="Java"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/haskell.svg"
+            height="40"
+            alt="haskell"
+            title="Haskell"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/omnet++.svg"
+            height="40"
+            alt="omnet++"
+            title="Omnet++"
+          />
+        </div>
+
+        <div class="icon-section" align="center">
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/html.svg"
+            height="40"
+            alt="html"
+            title="HTML"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/css.svg"
+            height="40"
+            alt="css"
+            title="CSS"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/javascript.svg"
+            height="40"
+            alt="javascript"
+            title="JavaScript"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/nextjs.svg"
+            height="40"
+            alt="nextjs"
+            title="NextJS"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/fastapi.svg"
+            height="40"
+            alt="fastapi"
+            title="FastAPI"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/docker.svg"
+            height="40"
+            alt="docker"
+            title="Docker"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mongodb.svg"
+            height="40"
+            alt="mongodb"
+            title="MongoDB"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/mysql.svg"
+            height="40"
+            alt="mysql"
+            title="MySQL"
+          />
+          <img
+            class="icon"
+            src="https://raw.githubusercontent.com/helcsnewsxd/helcsnewsxd/main/assets/ghidra.svg"
+            height="40"
+            alt="ghidra"
+            title="GHidra"
+          />
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
