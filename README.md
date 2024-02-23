@@ -77,7 +77,4 @@ If you want to count with my skills in your project, do not hesitate to contact 
   <a href="https://github.com/helcsnewsxd/FAMAF">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=FAMAF&show_owner=true&theme=transparent&hide_border=true" alt="my FAMAF repo" />
   </a>
-  <a href="https://github.com/helcsnewsxd/Codeforces-Problem-Solutions">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=Codeforces-Problem-Solutions&show_owner=true&theme=transparent&hide_border=true" alt="my codeforces solutions repo" />
-  </a>
 </div>
