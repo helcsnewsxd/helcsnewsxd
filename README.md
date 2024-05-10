@@ -77,10 +77,4 @@ If you want to count with my skills in your project, do not hesitate to contact 
   <a href="https://github.com/helcsnewsxd/FAMAF">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=FAMAF&show_owner=true&theme=transparent&hide_border=true" alt="my FAMAF repo" />
   </a>
-  <a href="https://github.com/helcsnewsxd/competitive-programming-solutions">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=competitive-programming-solutions&show_owner=true&theme=transparent&hide_border=true" alt="my competitive-programming-solutions repo" />
-  </a>
-  <a href="https://github.com/helcsnewsxd/competitive-programming-edu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=competitive-programming-edu&show_owner=true&theme=transparent&hide_border=true" alt="my competitive-programming-edu repo" />
-  </a>
 </div>
