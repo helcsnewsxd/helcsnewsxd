@@ -26,7 +26,10 @@ Today I can say that I study 👨‍🎓 and work 👨‍💼 what I love and pu
 <h3>Pinned Github Repos</h3>
 
 <div align="center">
-  <a href="https://github.com/helcsnewsxd/FAMAF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=FAMAF&show_owner=true&theme=transparent&hide_border=true" alt="my FAMAF repo" />
+  <a href="https://github.com/helcsnewsxd/famaf-computer_science">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=famaf-computer_science&show_owner=true&theme=transparent&hide_border=true" alt="my famaf-computer_science repo" />
+  </a>
+  <a href="https://github.com/helcsnewsxd/famaf-data_science">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helcsnewsxd&repo=famaf-data_science&show_owner=true&theme=transparent&hide_border=true" alt="my famaf-data_science repo" />
   </a>
 </div>
